@@ -1,12 +1,33 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
-import './index.css';
-import App from './App';
-import * as serviceWorker from './serviceWorker';
+import React from 'react'
+import ReactDOM from 'react-dom'
+// import BomDia from './components/BomDia'
 
-ReactDOM.render(<App />, document.getElementById('root'));
+/**Importando funcionalidades em forma de destrução*/
+// import {
+//     BoaTarde,
+//     BoaNoite
+// } from './components/Multiplos'
 
-// If you want your app to work offline and load faster, you can change
-// unregister() to register() below. Note this comes with some pitfalls.
-// Learn more about service workers: https://bit.ly/CRA-PWA
-serviceWorker.unregister();
+/**Importando um component de classe */
+import Saudacao from './components/Saudacao'
+
+//Importando Pai e Filhos 
+import Pai from './components/Pai'
+import Filho from './components/Filho'
+
+//Enviando Paramentros para o component
+ReactDOM.render( 
+    <>
+    {/* <BomDia name = 'Ash Linx'personagem = 'Gangster' />
+    <BoaTarde name = 'Ash Linx' />
+    <BoaNoite name = 'Ash Linx' /> */}
+    {/* <Saudacao type="Bom dia" name="Ashe"/> */}
+    <Pai name="August" lastName="Bunker">
+        {/* Como passar componets filhos */}
+        <Filho name="Vonheimer"></Filho>
+        <Filho name="Ras"></Filho>
+        <Filho name="Jade"></Filho>
+    </Pai>
+    </>
+
+    , document.getElementById('root'))
