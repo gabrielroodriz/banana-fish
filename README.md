@@ -46,6 +46,7 @@ Seu poder vem com a combinação da sintaxe JS com a mesclagem de HTML em seu co
 
 ~~~js
     const element = <h1>Banana Fish</h1>
+
 ~~~
 Para entender um pouco mais sobre o por que usar JSX, recomendo a documentação oficial do React falando especificamente sobre [JSX](https://pt-br.reactjs.org/docs/introducing-jsx.html).
 
@@ -53,6 +54,7 @@ Para entender um pouco mais sobre o por que usar JSX, recomendo a documentação
 ![teatro](https://observatoriog.bol.uol.com.br/wordpress/wp-content/uploads/2019/04/cicatriz.jpg)
 
 Gosto de pensar em componentes com a seguinte `Analogia`. Vamos dividir o desenvolvimento Web como uma peça de teatro, onde temos os atores, o palco, e o cenário. Os termos `Front` e `Back` end, podemos classificar da seguinte forma:
+
 > O Front enxrergamos como tudo aqui que está no palmo, alem das cortinas
 
 E é exatamente isso, tudo o que eu vejo, posso considerar como Frontend, o cenario, o palco, os atores...
