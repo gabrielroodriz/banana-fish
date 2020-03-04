@@ -10,6 +10,9 @@ Banana Fish é uma série de mangá escrita e ilustrada por Akimi Yoshida. Seria
 
 Ash Lynx em toda a sua história, eleva sua capacidade de aprendizado e adaptação ao meio, para cresver como líder de gangue, em forme de crecimento e adaptação, este projeto recebe o nome de Banana Fish, simbolizando toda essa capacidade de adaptação e evolução.
 
+#### Projetos relacionados:
+[Calculator](https://github.com/gabrielroodriz/banana-fish/tree/master/projects/calculadora)
+
 
 ## O Projeto  
 Este  projeto é uma série de aprendizados sobre a técnologia React, recebendo algumas de suas features documentadas e aplicadas na prática de como manipular componentes dentro do universo React. 
