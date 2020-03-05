@@ -1,0 +1,13 @@
+{
+    "users": [{
+            "id": 1,
+            "name": "Robert Andrews",
+            "email": "andrewsrob@rocour.com"
+        },
+        {
+            "id": 2,
+            "name": "Samantha Collins",
+            "email": "samanthalins@rocour.com"
+        }
+    ]
+}
