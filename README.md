@@ -12,6 +12,7 @@ Ash Lynx em toda a sua história, eleva sua capacidade de aprendizado e adaptaç
 
 #### Projetos relacionados:
 [Calculator](https://github.com/gabrielroodriz/banana-fish/tree/master/projects/calculadora)
+[Crud](https://github.com/gabrielroodriz/crud)
 
 
 ## O Projeto  
